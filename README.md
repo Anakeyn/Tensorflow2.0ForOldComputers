@@ -16,6 +16,7 @@ https://ark.intel.com/content/www/us/en/ark/products/37255/intel-core-2-duo-proc
 
 (you can check your own CPU on this site)
 
+![Image description](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/288px-TensorFlowLogo.svg.png)
 
 Download the file in a directory for example /tmp/tsf :
 
