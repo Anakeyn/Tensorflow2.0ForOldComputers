@@ -9,7 +9,8 @@ I compiled this 2.0 version under Ubuntu 18.04.3 LTS with a HP Pavillon dv6 note
 See Technical Specifications for this CPU on Intel WebSite :
 https://ark.intel.com/content/www/us/en/ark/products/37255/intel-core-2-duo-processor-t6600-2m-cache-2-20-ghz-800-mhz-fsb.html
 
-Download the file in a directory for example /tmp/tsf  
+Download the file in a directory for example /tmp/tsf :
+
 />cd tmp
 
 /tmp>mkdir tsf
@@ -18,8 +19,11 @@ Download the file in a directory for example /tmp/tsf
 
 /tmp/tsf>wget http://www.mediafire.com/file/w4iduu2ypqefd98/tensorflow-2.0.0-cp36-cp36m-linux_x86_64.whl
 
-Then install the .whl file as a standard library in your python env
+
+Then install the .whl file as a standard library in your python env :
+
 /tmp/tsf>pip install tensorflow-2.0.0-cp36-cp36m-linux_x86_64.whl 
+
 
 If you want to install this tensorflow in a specific python/Anaconda environment,  please don't forget to activate it :
 
