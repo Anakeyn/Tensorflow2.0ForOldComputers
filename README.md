@@ -27,7 +27,7 @@ Then install the .whl file as a standard library in your python env :
 
 If you want to install this tensorflow in a specific python/Anaconda environment,  please don't forget to activate it :
 
-(base) /tmp/tsf>conda activate my env
+(base) /tmp/tsf>conda activate myenv
 
 (myenv) /tmp/tsf>
 
