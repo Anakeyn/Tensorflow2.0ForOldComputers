@@ -1,7 +1,8 @@
 # Tensorflow2.0ForOldComputers   for Linux
 A TensorFlow 2.0 .whl file built with an old processor/computer (for  Linux).
 
-![Image description](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Acer_Aspire_8920_Gemstone.jpg/640px-Acer_Aspire_8920_Gemstone.jpg)
+![Old Computer](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Acer_Aspire_8920_Gemstone.jpg/640px-Acer_Aspire_8920_Gemstone.jpg?style=centerme)
+
 
 As this file is too big for GitHub I upload it on MediaFire. 
 
@@ -16,7 +17,7 @@ https://ark.intel.com/content/www/us/en/ark/products/37255/intel-core-2-duo-proc
 
 (you can check your own CPU on this site)
 
-![Image description](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/288px-TensorFlowLogo.svg.png)
+![Logo Tensorflow](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/288px-TensorFlowLogo.svg.png?style=centerme)
 
 Download the file in a directory for example /tmp/tsf :
 
