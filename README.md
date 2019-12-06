@@ -23,7 +23,7 @@ Download the file in a directory for example /tmp/tsf :
 /tmp/tsf>wget http://www.mediafire.com/file/w4iduu2ypqefd98/tensorflow-2.0.0-cp36-cp36m-linux_x86_64.whl
 
 
-Then install the .whl file as a standard library in your python env :
+Then install the .whl file as a standard library in your Python env :
 
 /tmp/tsf>pip install tensorflow-2.0.0-cp36-cp36m-linux_x86_64.whl 
 
