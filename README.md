@@ -35,9 +35,9 @@ Then install the .whl file as a standard library in your Python env :
 /tmp/tsf>pip install tensorflow-2.0.0-cp36-cp36m-linux_x86_64.whl 
 
 
-If you want to install this tensorflow in a specific python/Anaconda environment,  please don't forget to activate it :
+If you want to install this tensorflow in a specific python/Anaconda environment,  please don't forget to activate it before :
 
 (base) /tmp/tsf>conda activate myenv
 
-(myenv) /tmp/tsf>
+(myenv) /tmp/tsf>pip install tensorflow-2.0.0-cp36-cp36m-linux_x86_64.whl 
 
